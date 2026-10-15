@@ -1,0 +1,68 @@
+{
+  "task_id": "tsk_img_01M4YT0KEDMAW7HCE687MPY0KP",
+  "model": "gpt-image-2.5-flare",
+  "quote_usd": 0.0225,
+  "receipt": {
+    "task_id": "tsk_img_01M4YT0KEDMAW7HCE687MPY0KP",
+    "state": "completed",
+    "request": {
+      "model": "gpt-image-2.5-flare",
+      "prompt": "A premium studio product photograph of an original compact portable espresso maker, matte ivory body, brushed copper dial, on a pale travertine pedestal, warm amber side light, dark graphite background, subtle realistic shadows, editorial material detail, no text, no logos, square composition.",
+      "n": 1,
+      "size": "1:1",
+      "metadata": {
+        "resolution": "1K"
+      },
+      "quality": "high"
+    },
+    "observations": [
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "completed",
+        "billing": null
+      }
+    ],
+    "billing": null
+  },
+  "actual_charge_usd": 0.0225,
+  "status": "completed",
+  "date": "2026-10-15",
+  "prompt": "A premium studio product photograph of an original compact portable espresso maker, matte ivory body, brushed copper dial, on a pale travertine pedestal, warm amber side light, dark graphite background, subtle realistic shadows, editorial material detail, no text, no logos, square composition.",
+  "output": "examples/gpt-image-2-5-flare.png",
+  "original_output": "examples/gpt-image-2-5-flare.original.png",
+  "actual_dimensions": [
+    1024,
+    1024
+  ],
+  "original_format": "PNG",
+  "source_sha256": "f0d6599bf8e5338b52c7e072bc4cd530f14df258a5784e55816ba73dc2a96881",
+  "elapsed_seconds": 42.08,
+  "scope": "独立 API 图片素材准备与镜头素材清单；Remotion 原组件与完整品牌宣传片未验收。",
+  "quote_source": "GET /v1/pricing, 2026-10-15",
+  "actual_credits": 4.5,
+  "charge_source": "Owner-provided backend Task Logs screenshot, 2026-10-15; matched task ID prefix and model; 1 credit = USD 0.005",
+  "charge_confirmed_date": "2026-10-15"
+}

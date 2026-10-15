@@ -1,0 +1,60 @@
+{
+  "task_id": "tsk_img_01M4YT0KEKJF7YM9BVNG9NS3TJ",
+  "model": "gpt-image-2-vip",
+  "quote_usd": 0.0019,
+  "receipt": {
+    "task_id": "tsk_img_01M4YT0KEKJF7YM9BVNG9NS3TJ",
+    "state": "completed",
+    "request": {
+      "model": "gpt-image-2-vip",
+      "prompt": "A premium studio product photograph of an original compact portable espresso maker, matte ivory body, brushed copper dial, on a pale travertine pedestal, warm amber side light, dark graphite background, subtle realistic shadows, editorial material detail, no text, no logos, square composition.",
+      "n": 1,
+      "size": "1:1",
+      "resolution": "1K",
+      "quality": "low"
+    },
+    "observations": [
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "completed",
+        "billing": null
+      }
+    ],
+    "billing": null
+  },
+  "actual_charge_usd": 0.0019,
+  "status": "completed",
+  "date": "2026-10-15",
+  "prompt": "A premium studio product photograph of an original compact portable espresso maker, matte ivory body, brushed copper dial, on a pale travertine pedestal, warm amber side light, dark graphite background, subtle realistic shadows, editorial material detail, no text, no logos, square composition.",
+  "output": "examples/gpt-image-2-vip.png",
+  "original_output": "examples/gpt-image-2-vip.original.png",
+  "actual_dimensions": [
+    1024,
+    1024
+  ],
+  "original_format": "PNG",
+  "source_sha256": "61106582591fd346695c1fd0257a3fee6a3bc208d8311e8ff7b11f00e99b7975",
+  "elapsed_seconds": 32.99,
+  "scope": "独立 API 图片素材准备与镜头素材清单；Remotion 原组件与完整品牌宣传片未验收。",
+  "quote_source": "GET /v1/pricing, 2026-10-15",
+  "actual_credits": 0.38,
+  "charge_source": "Owner-provided backend Task Logs screenshot, 2026-10-15; matched task ID prefix and model; 1 credit = USD 0.005",
+  "charge_confirmed_date": "2026-10-15"
+}

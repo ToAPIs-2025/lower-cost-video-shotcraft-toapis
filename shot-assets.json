@@ -1,0 +1,26 @@
+{
+  "upstream_sha": "13c74a707786872a18e3317e48c5c94011027620",
+  "recipe": "spotlight-hero-card",
+  "recipe_url": "https://github.com/Vincentwei1021/video-shotcraft/tree/13c74a707786872a18e3317e48c5c94011027620/references/shots/opening/spotlight-hero-card.md",
+  "scope": "asset preparation only; original Remotion rendering not tested",
+  "assets": [
+    {
+      "model": "gpt-image-2-vip",
+      "file": "examples/gpt-image-2-vip.png",
+      "quote_usd": 0.0019,
+      "task_id": "tsk_img_01M4YT0KEKJF7YM9BVNG9NS3TJ"
+    },
+    {
+      "model": "gemini-nano-banana-2.1",
+      "file": "examples/gemini-nano-banana-2-1.png",
+      "quote_usd": 0.015,
+      "task_id": "tsk_img_01M4YT0KG521TA5PRNGF5EQ6R3"
+    },
+    {
+      "model": "gpt-image-2.5-flare",
+      "file": "examples/gpt-image-2-5-flare.png",
+      "quote_usd": 0.0225,
+      "task_id": "tsk_img_01M4YT0KEDMAW7HCE687MPY0KP"
+    }
+  ]
+}

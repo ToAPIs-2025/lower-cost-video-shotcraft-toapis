@@ -1,0 +1,73 @@
+{
+  "task_id": "tsk_img_01M4YT0KG521TA5PRNGF5EQ6R3",
+  "model": "gemini-nano-banana-2.1",
+  "quote_usd": 0.015,
+  "receipt": {
+    "task_id": "tsk_img_01M4YT0KG521TA5PRNGF5EQ6R3",
+    "state": "completed",
+    "request": {
+      "model": "gemini-nano-banana-2.1",
+      "prompt": "A premium studio product photograph of an original compact portable espresso maker, matte ivory body, brushed copper dial, on a pale travertine pedestal, warm amber side light, dark graphite background, subtle realistic shadows, editorial material detail, no text, no logos, square composition.",
+      "n": 1,
+      "size": "1:1",
+      "metadata": {
+        "resolution": "1K"
+      }
+    },
+    "observations": [
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "in_progress",
+        "billing": {
+          "status": "pending"
+        }
+      },
+      {
+        "status": "completed",
+        "billing": null
+      }
+    ],
+    "billing": null
+  },
+  "actual_charge_usd": 0.015,
+  "status": "completed",
+  "date": "2026-10-15",
+  "prompt": "A premium studio product photograph of an original compact portable espresso maker, matte ivory body, brushed copper dial, on a pale travertine pedestal, warm amber side light, dark graphite background, subtle realistic shadows, editorial material detail, no text, no logos, square composition.",
+  "output": "examples/gemini-nano-banana-2-1.png",
+  "original_output": "examples/gemini-nano-banana-2-1.jpg",
+  "actual_dimensions": [
+    1024,
+    1024
+  ],
+  "original_format": "JPEG",
+  "source_sha256": "32e5e9013332a837bb7f26f3ce20e6f8910510835485a5b24d05899bedd35584",
+  "elapsed_seconds": 50.86,
+  "scope": "独立 API 图片素材准备与镜头素材清单；Remotion 原组件与完整品牌宣传片未验收。",
+  "quote_source": "GET /v1/pricing, 2026-10-15",
+  "actual_credits": 3,
+  "charge_source": "Owner-provided backend Task Logs screenshot, 2026-10-15; matched task ID prefix and model; 1 credit = USD 0.005",
+  "charge_confirmed_date": "2026-10-15"
+}
